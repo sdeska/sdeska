@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there 👋
+
+I'm a computing and electrical engineering student at Tampere university. 
+
+I enjoy working on my own projects whenever I have the time.
+- Currently I am working mainly on my messenger project, which is just a fun little Java exercise for some basic socket programming and concurrency.
 
 <!--
 **sdeska/sdeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
