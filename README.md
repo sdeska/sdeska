@@ -3,7 +3,8 @@
 I'm a computing and electrical engineering student at Tampere university. 
 
 I enjoy working on my own projects whenever I have the time.
-- Currently I am working mainly on my messenger project, which is just a fun little Java exercise for some basic socket programming and concurrency.
+- Currently I am working on a city bike app, which uses React for frontend and Java with Spring and Docker for backend. For the time being this repository is private.
+- My second, previously active Java messenger project has been put on hold as I am starting work on the city bike app.
 
 <!--
 **sdeska/sdeska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
